@@ -22,11 +22,12 @@ https://ulyk04.github.io/WELLHALL/
 - **Google Fonts**: Stylish fonts for a premium look and feel.
 
 ## 📁 Project Structure
-
+```
 ├── index.html # Main HTML file 
 ├── style.css # Custom styles 
 ├── /images # Image assets (e.g., backgrounds, logos) 
 └── README.md # Project documentation
+```
 
 ## 🚀 Getting Started
 
@@ -35,7 +36,8 @@ To view the website locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/wellhall-hotel.git
-2.Open 'index.html' in your desktop
+   
+2. Open 'index.html' in your desktop
 
 ## 📷 Background and Inspiration
 WELLHALL is inspired by the serene luxury of world-class resorts. The design aims to create a warm, inviting atmosphere while highlighting the professionalism and quality of services.
