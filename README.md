@@ -12,7 +12,7 @@ Welcome to **WELLHALL**, a professional website designed to showcase the charm a
 
 ## 🖼️ Preview
 
-![Website LINK](https://ulyk04.github.io/WELLHALL/)
+https://ulyk04.github.io/WELLHALL/
 
 
 ## 🛠️ Technologies Used
