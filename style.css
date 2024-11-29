@@ -294,3 +294,608 @@ footer{
 .container-footer p{
     font-size: 20px;
 }
+footer {
+    color: rgb(26, 95, 173 );
+}
+@media(min-width: 992px) and (max-width: 1199px){
+    .section_one{
+        padding: 150px 0;
+    }
+    .title-4{
+        padding: 0 100px;
+    }
+    .content-4{
+        margin-left: 600px;
+        width: 500px;
+        margin-top: -350px;
+    }
+    .big-container{
+        margin-right: -20px;
+    }
+    .big-container5{
+        margin-right: 0;
+    }
+
+    /* Just a test for ekran */
+
+    .title_second h3{
+        font-size: 50px;
+        font-weight: 3000;
+    }
+    .title_second p{
+        font-size: 35px;
+    }
+    .title_second{
+        margin-left: 20px;
+    }
+    .image-plaj{
+        margin-right: 10px;
+    }
+
+    /*section 2*/
+
+    .wrapper img{
+        width: 320px;
+        height: 220px;
+    }
+    .wrapper-2{
+        width: 320px;
+        height: 180px;
+    }
+    .wrapper-2 p{
+        font-size: 20px;
+    }
+    .wrapper-2 h3{
+        font-size: 25px;
+    }
+    .container{
+        margin: 0 20px;
+    }
+
+    /* section 3 */
+
+    .content-4 img{
+        width: 500px;
+        height: 300px;
+    }
+    .title-4 h1{
+        font-size: 40px;
+    }
+    .title-4 p{
+        font-size: 28px;
+    }
+    .text-content-4 p{
+        font-size: 28px;
+    }
+    .text-content-4{
+        width: 500px;
+    }
+
+    /* section 4 */
+
+    .container5 img{
+        width: 300px;
+        height: 500px;
+    }
+    .container5-2 img{
+        width: 500px;
+        height: 500px;
+    }
+    .wrapper5{
+        width: 300px;
+    }
+    .wrapper5-2{
+        width: 500px;
+    }
+
+    /* section 5*/
+
+    .title7 h1{
+        font-size: 60px;
+    }
+    .wrapper7 p{
+        font-size: 28px;
+    }
+    .wrapper7 h1{
+        font-size: 30px;
+    }
+    .section-7{
+        background-position: center;
+    }
+
+    /* Skip the section 6, now I finished section 7*/
+
+    footer{
+        padding: 200px 0;
+    }
+    .container-footer img{
+        width: 50px;
+        height: 50px;
+        margin-left: 32px;
+    }
+}
+@media(min-width: 768px) and (max-width:991px){
+    body{
+        width: 991px;
+        max-width: 100%;
+    }
+    .section_one{
+        padding: 150px 0;
+    }
+    .title-4{
+        padding: 0 50px;
+    }
+    .content-4{
+        margin-left: 450px;
+        width: 500px;
+        margin-top: -350px;
+    }
+    .big-container{
+        margin-right: -20px;
+    }
+    .big-container5{
+        margin-right: 50px;
+    }
+
+    /* Just a test for ekran */
+
+    .title_second h3{
+        font-size: 40px;
+        font-weight: 3000;
+    }
+    .title_second p{
+        font-size: 30px;
+    }
+    .title_second{
+        margin-left: 20px;
+    }
+    .image-plaj{
+        margin-right: -50px;
+    }
+    .image-plaj img{
+        width: 400px;
+        height: 450px;
+    }
+
+    /*section 2*/
+
+    .wrapper img{
+        width: 280px;
+        height: 180px;
+    }
+    .wrapper-2{
+        width: 280px;
+        height: 150px;
+    }
+    .wrapper-2 p{
+        font-size: 15px;
+    }
+    .wrapper-2 h3{
+        font-size: 20px;
+    }
+    .container{
+        margin: 0 5px;
+    }
+
+    /* section 3 */
+
+    .content-4 img{
+        width: 400px;
+        height: 250px;
+    }
+    .title-4 h1{
+        font-size: 40px;
+    }
+    .title-4 p{
+        font-size: 28px;
+    }
+    .text-content-4 p{
+        font-size: 28px;
+    }
+    .text-content-4{
+        width: 400px;
+    }
+
+    /* section 4 */
+
+    .container5 img{
+        width: 250px;
+        height: 400px;
+        object-position: center;
+    }
+    .container5-2 img{
+        width: 400px;
+        height: 400px;
+    }
+    .wrapper5{
+        width: 250px;
+    }
+    .wrapper5-2{
+        width: 400px;
+    }
+    .wrapper5 p{
+        font-size: 18px;
+    }
+    .wrapper5-2 p{
+        font-size: 18px;
+    }
+
+    /* section 5*/
+
+    .title7 h1{
+        font-size: 60px;
+    }
+    .wrapper7 p{
+        font-size: 28px;
+    }
+    .wrapper7 h1{
+        font-size: 30px;
+    }
+    .section-7{
+        background-position: center;
+    }
+
+    /* Skip the section 6, now I finished section 7*/
+
+    footer{
+        padding: 200px 0;
+    }
+    .container-footer img{
+        width: 40px;
+        height: 40px;
+        margin-left: 23px;
+    }
+    .container-footer h3{
+        font-size: 22px;
+    }
+    .container-footer p{ 
+        font-size: 18px;
+    }
+}
+@media (min-width:481px) and (max-width:767px){
+    body{
+        width: 767px;
+        max-width: 100%;
+    }
+    .title p{
+        font-size: 40px;
+    }
+    .title h3{
+        font-size: 50px;
+    }
+    .title h5{
+        font-size: 50px;
+    }
+    .title button{
+        width: 100px;
+        height: 30px;
+        font-size: 10px;
+    }
+    .section_one{
+        padding: 150px 0;
+    }
+    .title-4{
+        padding: 0 50px;
+    }
+    .content-4{
+        margin-left: 300px;
+        width: 500px;
+        margin-top: -350px;
+    }
+    .big-container{
+        margin-right: -20px;
+    }
+    .big-container5{
+        margin-right: 50px;
+    }
+
+    /* Just a test for ekran */
+
+    .title_second h3{
+        font-size: 30px;
+        font-weight: 3000;
+    }
+    .title_second p{
+        font-size: 20px;
+    }
+    .title_second{
+        width: 200px;
+    }
+    .title_second{
+        margin-left: 20px;
+    }
+    .image-plaj{
+        margin-right: 10px;
+    }
+    .image-plaj img{
+        width: 300px;
+        height: 400px;
+    }
+
+    /*section 2*/
+
+    .wrapper img{
+        width: 220px;
+        height: 150px;
+    }
+    .wrapper-2{
+        width: 220px;
+        height: 150px;
+    }
+    .wrapper-2 p{
+        font-size: 15px;
+    }
+    .wrapper-2 h3{
+        font-size: 20px;
+    }
+    .container{
+        margin: 0 5px;
+    }
+    .title-third {
+        font-size: 50px;
+    }
+
+    /* section 3 */
+
+    .content-4 img{
+        width: 300px;
+        height: 200px;
+    }
+    .title-4 h1{
+        font-size: 30px;
+    }
+    .title-4 p{
+        font-size: 22px;
+    }
+    .text-content-4 p{
+        font-size: 22px;
+    }
+    .text-content-4{
+        width: 300px;
+    }
+    .title-4{
+        width: 220px;
+    }
+
+    /* section 4 */
+
+    .container5 img{
+        width: 200px;
+        height: 300px;
+        object-position: center;
+    }
+    .container5-2 img{
+        width: 300px;
+        height: 300px;
+    }
+    .wrapper5{
+        width: 200px;
+    }
+    .wrapper5-2{
+        width: 300px;
+    }
+    .wrapper5 p{
+        font-size: 15px;
+    }
+    .wrapper5-2 p{
+        font-size: 15px;
+    }
+
+    /* section 5*/
+    .section-7{
+        padding: 150px 0;
+    }
+    .title7 h1{
+        font-size: 40px;
+    }
+    .wrapper7 p{
+        font-size: 20px;
+    }
+    .wrapper7 h1{
+        font-size: 22px;
+    }
+    .section-7{
+        background-position: center;
+    }
+
+    /* Skip the section 6, now I finished section 7*/
+
+    footer{
+        padding: 200px 0;
+    }
+    .container-footer img{
+        width: 20px;
+        height: 20px;
+        margin-left: 16px;
+    }
+    .container-footer h3{
+        font-size: 20px;
+    }
+    .container-footer p{ 
+        font-size: 15px;
+    }
+    .footer-title h3{
+        font-size: 50px;
+    }
+}
+@media(max-width: 480px){
+    body{
+        width: 480px;
+        max-width: 100%;
+    }
+    .title p{
+        font-size: 40px;
+    }
+    .title h3{
+        font-size: 50px;
+    }
+    .title h5{
+        font-size: 50px;
+    }
+    .title button{
+        width: 100px;
+        height: 30px;
+        font-size: 10px;
+    }
+    .section_one{
+        padding: 150px 0;
+    }
+    .title-4{
+        padding: 0 50px;
+    }
+    .content-4{
+        margin-left: 100px;
+        width: 500px;
+        margin-top: -250px;
+    }
+    .big-container{
+        margin-right: -20px;
+    }
+    .big-container5{
+        margin-right: 10px;
+        gap: 30px;
+    }
+
+    /* Just a test for ekran */
+
+    .section_second{
+        padding: 100px 0;
+    }
+    .title_second h3{
+        font-size: 22px;
+        font-weight: 3000;
+    }
+    .title_second p{
+        font-size: 13px;
+    }
+    .title_second{
+        width: 200px;
+    }
+    .title_second{
+        margin-left: 20px;
+    }
+    .image-plaj{
+        margin-top: -250px;
+        margin-right: -10px;
+    }
+    .image-plaj img{
+        width: 150px;
+        height: 250px;
+    }
+
+    /*section 2*/
+
+    .wrapper img{
+        width: 130px;
+        height: 100px;
+    }
+    .wrapper-2{
+        width: 130px;
+        height: 130px;
+    }
+    .wrapper-2 p{
+        font-size: 11px;
+    }
+    .wrapper-2 h3{
+        font-size: 13px;
+    }
+    .container{
+        margin: 0 2px;
+    }
+    .title-third {
+        font-size: 30px;
+    }
+    .section_third{
+        padding: 100px 0;
+    }
+
+    /* section 3 */
+
+    .content-4 img{
+        width: 200px;
+        height: 100px;
+    }
+    .title-4 h1{
+        font-size: 20px;
+    }
+    .title-4 p{
+        font-size: 15px;
+    }
+    .text-content-4 p{
+        font-size: 15px;
+    }
+    .text-content-4{
+        width: 100px;
+    }
+    .title-4{
+        width: 190px;
+    }
+
+    /* section 4 */
+
+    .container5 img{
+        width: 120px;
+        height: 200px;
+        object-position: center;
+    }
+    .container5-2 img{
+        width: 200px;
+        height: 200px;
+    }
+    .container5{
+        margin-left: 12px;
+    }
+    .wrapper5{
+        width: 120px;
+    }
+    .wrapper5-2{
+        width: 200px;
+    }
+    .wrapper5 p{
+        font-size: 12px;
+    }
+    .wrapper5-2 p{
+        font-size: 12px;
+    }
+
+    /* section 5*/
+    .section-7{
+        padding: 100px 0;
+    }
+    .title7 h1{
+        font-size: 30px;
+    }
+    .wrapper7 p{
+        font-size: 12px;
+    }
+    .wrapper7 h1{
+        font-size: 12px;
+    }
+    .section-7{
+        background-position: center;
+    }
+
+    /* Skip the section 6, now I finished section 7*/
+
+    footer{
+        padding: 100px 0;
+    }
+    .container-footer img{
+        width: 20px;
+        height: 20px;
+        margin-left: 16px;
+        margin-top: 30px;
+}
+    .container-footer h3{
+        font-size: 15px;
+    }
+    .container-footer p{ 
+        font-size: 12px;
+    }
+    .footer-title h3{
+        font-size: 30px;
+    }
+    .footer-title{
+        margin-top: 30px;
+    }
+}
