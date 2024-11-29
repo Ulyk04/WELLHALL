@@ -40,7 +40,7 @@ To view the website locally:
 ## 📷 Background and Inspiration
 WELLHALL is inspired by the serene luxury of world-class resorts. The design aims to create a warm, inviting atmosphere while highlighting the professionalism and quality of services.
 
-#📞 Contact
+# 📞 Contact
 For inquiries or feedback, please reach out to:
 
 - **Email**: ulykpankajsar1@gmail.com
